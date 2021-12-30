@@ -16,7 +16,7 @@
 
 - 📨  My email address **joeldeondsouza19@gmail.com**.
 
-## 🚀 Languages and Tools:
+## 🛠 Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -39,7 +39,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 🏹 My Github Stats
 
   <br/>
     <a href="https://github.com/JoelDeonDsouza/github-readme-stats"><img alt="Joel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JoelDeonDsouza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -54,7 +54,7 @@
 
 </p>
 
-## ❤ Views and Followers
+## ∞ Views and Followers
 <a href="https://github.com/JoelDeonDsouza/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=JoelDeonDsouza">
 </a>
