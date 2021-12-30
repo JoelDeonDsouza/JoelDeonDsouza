@@ -14,8 +14,6 @@
 
 - Few of my projects are available on this GitHub.
 
-- 📨  My email address **joeldeondsouza19@gmail.com**.
-
 ## 🛠 Languages and Tools:
 
 <p align="left"> 
@@ -51,11 +49,9 @@
 <p align="left">
 
 <a href = "https://twitter.com/JoelDeonDsouza"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+- 📨  My email address **joeldeondsouza19@gmail.com**.
 
 </p>
 
-## ∞ Views and Followers
-<a href="https://github.com/JoelDeonDsouza/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=JoelDeonDsouza">
-</a>
+## ∞ Followers
 <a href="https://github.com/JoelDeonDsouza?tab=followers"><img src="https://img.shields.io/github/followers/JoelDeonDsouza?label=Followers&style=social" alt="GitHub Badge"></a>
