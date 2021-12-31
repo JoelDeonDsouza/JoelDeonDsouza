@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.pixabay.com/photo/2018/05/10/17/48/lego-3388163_960_720.png" height="175px"/></a>
 
 <h1 align="center"> Hi I'm  Joel Deon D'souza</h1>
-<h3 href="https://serene-fermat-998f2f.netlify.app/index.html">Portfolio</h3>
+<a href="https://serene-fermat-998f2f.netlify.app/index.html">Portfolio</a>
 <h3 align="center">"I code because, it teache's me how to think."</h3>
 
 
