@@ -4,7 +4,7 @@
 <h3 align="center">"I code because, it teache's me how to think."</h3>
 
 
-## 🧑🏽‍💻 About Me <a href="https://serene-fermat-998f2f.netlify.app/index.html">Portfolio</a>
+## 🧑🏽‍💻 About Me <a href="https://joeldeondsouza.netlify.app/"> Portfolio</a>
 
 
 - I'm a full-stack developer.
