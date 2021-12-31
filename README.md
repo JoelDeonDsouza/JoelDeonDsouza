@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi I'm  Joel Deon D'souza</h1>
 <h3 align="center">"I code because, it teache's me how to think."</h3>
-<li>href="https://serene-fermat-998f2f.netlify.app/index.html" placeholder="Portfolio"</li>
+<a href="https://serene-fermat-998f2f.netlify.app/index.html">Portfolio</a>
 
 
 ## 🧑🏽‍💻 About Me
