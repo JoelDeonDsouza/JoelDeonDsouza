@@ -50,7 +50,7 @@
 <p>
 
 <a href = "https://twitter.com/JoelDeonDsouza"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
-<a href = "https://medium.com/@jdeondsouza">Medium</a>
+<a href = "https://medium.com/@jdeondsouza"><img src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"/></a>
 - 📨  My email address **jdeondsouza@gmail.com**.
 
 </p>
