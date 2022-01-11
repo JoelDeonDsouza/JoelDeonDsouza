@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.pixabay.com/photo/2018/05/10/17/48/lego-3388163_960_720.png" height="175px"/></a>
+
+<a href="#"><img width="100%" height="auto" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" height="175px"/></a>
 
 
 <h1 align="center"> Hi I'm  Joel Deon D'souza</h1>
