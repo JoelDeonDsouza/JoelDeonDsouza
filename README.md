@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://jobel.w3spaces.com/javascript-node-js-abstract-logo-wallpaper-preview.jpeg?bypass-cache=63946156" height="160px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://jobel.w3spaces.com/javascript-node-js-abstract-logo-wallpaper-preview-removebg-preview.png?bypass-cache=64095667" height="160px"/></a>
 
 
 <h1 align="center"> Hi I'm  Joel Deon D'souza</h1>
