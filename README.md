@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://beatmix.w3spaces.com/Screenshot_2022-01-11_at_10.03.09-removebg-preview.png?bypass-cache=91902537" height="160px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://jobel.w3spaces.com/javascript-node-js-abstract-logo-wallpaper-preview.jpeg?bypass-cache=63809168" height="160px"/></a>
 
 
 <h1 align="center"> Hi I'm  Joel Deon D'souza</h1>
