@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://dsouzafamily2022.w3spaces.com/1_uZ094Kxwv_qLih3tn9AZ6Q-removebg-preview.png?bypass-cache=86330181" height="160px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://dsouzafamily2022.w3spaces.com/1_uZ094Kxwv_qLih3tn9AZ6Q-removebg-preview.png?bypass-cache=86330181" height="150px"/></a>
 
 
 <h1 align="center"> Hi I'm  Joel Deon D'souza</h1>
