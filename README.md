@@ -3,7 +3,7 @@
 
 
 <h1 align="center"> Hi I'm  Joel Deon D'souza</h1>
-<h3 align="center">"The only reason I code is, it teache's me how to think!.."</h3>
+<h3 align="center">"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</h3>
 
 
 ## 🧑🏽‍💻 About Me:  <a href="https://joeldeondsouza.netlify.app/"> Portfolio</a>
