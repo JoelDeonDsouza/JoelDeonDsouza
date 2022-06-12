@@ -48,7 +48,7 @@
   <br/> 
 
 
-## Connect with me:
+## 🔗 Connect with me:
 <p>
 
 <a href = "https://twitter.com/JoelDeonDsouza"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
