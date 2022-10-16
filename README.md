@@ -9,7 +9,7 @@
 ## 🧑🏽‍💻 About Me:  <a href="https://joeldeondsouza.netlify.app/"> Portfolio</a>
 
 
-- I'm a full-stack developer.
+- I'm a full-stack developer (Mern Stack).
 
 - I am Fascinated by JavaScript and its frameworks.
 
