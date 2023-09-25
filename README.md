@@ -2,8 +2,8 @@
 <a href="#"><img width="100%" height="60%" src="https://dsouzafamily2022.w3spaces.com/github.png?bypass-cache=77618828"/></a>
 
 
-<h1 align="center"> Hi I'm  Joel Deon D'souza</h1>
-<h3 align="center">"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</h3>
+<span align="center"> Hi I'm  Joel Deon D'souza</span>
+<span align="center">"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</span>
 
 
 ## 🧑🏽‍💻 About Me:  <a href="https://joeldeondsouza.netlify.app/"> Portfolio</a>
