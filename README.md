@@ -13,9 +13,9 @@
 
 - I am Fascinated by JavaScript and its frameworks.
 
-- At present, I am learning web-testing(QA) with Cypress.
+- I am currently learning web testing (QA) with Cypress.
 
-- Few of my projects are available on this GitHub.
+- A few of my projects are available on this GitHub.
 
 ## 🛠 Languages and Tools:
 
