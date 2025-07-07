@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="60%" src="wallpaper.png"/></a>
+<a href="#"><img width="100%" height="100%" src="wallpaper.png"/></a>
 
 
 <h1 align="center"> Hi I'm  Joel Deon D'souza</h1>
